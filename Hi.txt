@@ -1,0 +1,16 @@
+Hello,
+
+I am an experienced C# developer with strong expertise in debugging and fixing issues related to program functionality. I have reviewed your requirements and the repository, and I am confident in my ability to:
+
+Identify the issues with the non-functional button and fix its navigation to the next page.
+Ensure the program correctly enters random values and allows the 'Start' button to trigger as intended.
+Resolve the issue preventing the mobile emulator window from appearing.
+I will provide a quick turnaround and ensure the program works as expected. Please note that I’ll thoroughly check the code to address all issues before making any fixes.
+
+I can't bid on this project in freelancer.com
+So, I'd like to contact via WhatsApp.
+My WhatsApp address is +81 80-6257-0497.
+
+Looking forward to your confirmation, and I'm happy to discuss the project in more detail before proceeding.
+
+Best regards
